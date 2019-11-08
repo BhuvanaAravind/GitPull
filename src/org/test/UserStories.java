@@ -12,12 +12,24 @@ public class UserStories {
 	
 	private void github() {
 	System.out.println("github");	
-		}
 	
-	public static void main(String[] args) {
-		
+}
+	
+	private void laksh() {
+System.out.println("lakshmi");
+
+	}
+
+
+public static void main(String[] args) {
+	
 	UserStories s=new UserStories();
 	s.git();
-	
-	}
 }
+}
+
+	
+	
+	
+	
+
