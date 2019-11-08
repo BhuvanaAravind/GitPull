@@ -12,6 +12,11 @@ public class UserStories {
 	
 	private void github() {
 	System.out.println("github");	
+	
+	}
+	
+	private void laksh() {
+System.out.println("lakshmi");
 
 	}
 
